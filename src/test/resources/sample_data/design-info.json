@@ -1,0 +1,16 @@
+{
+  "sampleData": {
+    "ab7f734e-3c2a-4952-85b4-b2334d1b928c": {
+      "payload": "sample_data/unknown.dwl"
+    },
+    "e17680e1-b436-4638-b58b-37779f218c21": {
+      "payload": "sample_data/unknown_1.dwl"
+    },
+    "51587532-9d0c-4a3a-8db0-633670fa7bd6": {
+      "payload": "sample_data/unknown_2.dwl"
+    },
+    "11e060e2-b985-45e8-a2c7-df71a63f3dbc": {
+      "vars-flights": "sample_data/list_unknown.json"
+    }
+  }
+}
